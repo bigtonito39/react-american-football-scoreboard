@@ -5,6 +5,7 @@ import "./App.css";
 
 const BottomRow = () => {
 
+
 const [hitHome,sethitHome] = useState(0);
 const [hitAway,sethitAway] = useState(0);
 const [errorHome,seterrorHome] = useState(0);
