@@ -56,3 +56,13 @@ button:focus {
 button:active {
   transform: scale(0.99);
 }
+
+.scoreboard {
+background-image: url("http://static1.squarespace.com/static/5984890903596eaddbfc4532/59848c54bebafb6888fc1c79/59baf34c88199eba5045c2d3/1506185022450/METS.png?format=1500w");
+
+}
+h3{
+  color:orange;
+  font-weight: bolder;
+
+}
